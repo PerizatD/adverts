@@ -1,0 +1,15 @@
+kg\megacom\adverts\dao\TvChannelRepository.class
+kg\megacom\adverts\services\DiscountServices.class
+kg\megacom\adverts\services\TvChannelServices.class
+kg\megacom\adverts\services\impl\DiscountServicesImpl.class
+kg\megacom\adverts\AdvertsApplication.class
+kg\megacom\adverts\controllers\DiscountController.class
+kg\megacom\adverts\services\impl\TvChannelServicesImpl.class
+kg\megacom\adverts\dao\DiscountRepository.class
+kg\megacom\adverts\services\OrderServices.class
+kg\megacom\adverts\controllers\TvChannelController.class
+kg\megacom\adverts\models\Discount.class
+kg\megacom\adverts\configuration\Swagger2Config.class
+kg\megacom\adverts\services\impl\OrderServicesImpl.class
+kg\megacom\adverts\models\Order.class
+kg\megacom\adverts\models\TV_Channel.class

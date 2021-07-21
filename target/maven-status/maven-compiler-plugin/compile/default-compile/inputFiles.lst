@@ -1,0 +1,15 @@
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\controllers\TvChannelController.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\models\TV_Channel.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\configuration\Swagger2Config.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\models\Discount.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\dao\DiscountRepository.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\controllers\DiscountController.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\services\impl\OrderServicesImpl.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\services\impl\TvChannelServicesImpl.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\dao\TvChannelRepository.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\models\Order.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\services\OrderServices.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\services\TvChannelServices.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\services\DiscountServices.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\services\impl\DiscountServicesImpl.java
+C:\Users\lenovo\IdeaProjects\adverts\src\main\java\kg\megacom\adverts\AdvertsApplication.java

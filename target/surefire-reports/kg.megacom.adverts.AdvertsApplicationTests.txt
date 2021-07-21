@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: kg.megacom.adverts.AdvertsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.283 s - in kg.megacom.adverts.AdvertsApplicationTests
